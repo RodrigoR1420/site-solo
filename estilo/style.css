@@ -95,8 +95,8 @@ button{
 
 .imagens > p{
     background-color: #000000b8;
-    width: 400px;
-    line-height: 1.5em;
+    margin: auto;
+    line-height: 1.7em;
 }
 
 #img01{
